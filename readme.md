@@ -1,4 +1,4 @@
-# Pizza Parlore by Asia Kaplanyan and Carl Sustrich
+# Journal by Asia Kaplanyan and Carl Sustrich
 
 ## Technologies Used
 
@@ -8,7 +8,7 @@
 
 ## Description
 
-_This webpage takes user's input for Journal, counts vowels and consonants and outputs first 8 words of the entry._
+_Practice webpacks. This webpage takes user's input for Journal, counts vowels and consonants and outputs first 8 words of the entry._
 
 
 ## Setup/Installation Requirements
